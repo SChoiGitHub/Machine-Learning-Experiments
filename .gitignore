@@ -1,3 +1,4 @@
 **/*.swp
 **/*.data
+**/*.test
 **/.ipynb_checkpoints
