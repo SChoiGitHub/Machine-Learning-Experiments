@@ -1,4 +1,5 @@
 **/*.swp
 **/*.data
 **/*.test
+**/*.pdf
 **/.ipynb_checkpoints
