@@ -1,6 +1,7 @@
 version: '2.0'
 services:
   tf:
+    container_name: tensorflowExperiments
     build: .
     ports:
     - "8888:8888"
