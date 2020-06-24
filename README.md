@@ -1,4 +1,4 @@
-# Machine-Learning-Experiments
+# Machine Learning Experiments
 
 These are my personal experiments with TensorFlow and python Machine Learning related things.
 
