@@ -4,4 +4,6 @@ These are my personal experiments with TensorFlow and python Machine Learning re
 
 Most (if not all) of the data sets come from the [UCI Machine Learning](https://archive.ics.uci.edu/ml/index.php). They must be downloaded as needed because they are not included in this repository.
 
+The "Open_Images_Dataset" is an experiment that uses the [Open Images Dataset](https://storage.googleapis.com/openimages/web/index.html) to obtain images. At the moment, the folder contains code to train data on big cats like lions and tigers.
+
 The "Setup" folder contains the Dockerfile I used to start the developer enviroment. Docker-compose does expect that this folder is to be renamed to "~/tfDir" so that it can mount this directory into the container.
