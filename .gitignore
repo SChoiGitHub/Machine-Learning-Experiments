@@ -1,6 +1,7 @@
 **/*.swp
 **/*.data
 **/*.test
+**/*.jpg
 **/*.pdf
 **/*.ckpt
 **/*.index
