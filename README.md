@@ -18,6 +18,7 @@ Topics:
   - Open Images Dataset (WARNING: Unable to properly train and test.)
   - Weather Prediction (First Use of RNNs and LSTMs are here)
   - Flower Classification (First Use of Keras-Tuner's Hyperband and CNNs are here)
+  - Yelp Polar Review (First attempt at NLP)
 - Unsupervised Learning
   - TF-Agents
 
