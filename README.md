@@ -19,6 +19,7 @@ Topics:
   - Weather Prediction (First Use of RNNs and LSTMs are here)
   - Flower Classification (First Use of Keras-Tuner's Hyperband and CNNs are here)
   - Yelp Polar Review (First attempt at NLP)
+  - MNIST Handwriting ACGAN  (attempt at GAN)
 - Unsupervised Learning
   - TF-Agents
 
